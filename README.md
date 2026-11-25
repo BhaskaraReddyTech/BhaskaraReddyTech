@@ -97,7 +97,7 @@ My portfolio focuses on documenting DevOps and Cloud engineering solutions.
 ## 🤝 Connect With Me
 
 - **GitHub:** [BhaskaraReddyTech](https://github.com/BhaskaraReddyTech)
-- **LinkedIn:** Add your LinkedIn profile URL
+- **LinkedIn:** https://www.linkedin.com/in/bhaskarareddyofficial/
 
 ---
 
